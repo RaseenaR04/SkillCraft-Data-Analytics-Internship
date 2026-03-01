@@ -58,7 +58,8 @@ Used the `SUM()` function to calculate overall sales from the Sales column:
 ✔ Successfully calculated total revenue.
 
 ### 📸 Screenshot – Total Sales
-![Total Sales](total-sales.png)
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/9a557b2a-cfa6-42b7-b8e4-7c11b9be12bc" />
+
 
 ---
 
@@ -74,7 +75,8 @@ Generated a Column Chart to visualize category-wise sales comparison.
 ✔ Identified highest performing category.
 
 ### 📸 Screenshot – Category Pivot & Chart
-![Category Analysis](category-chart.png)
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/0f9ca60d-b6f9-49f5-9cdf-659734f3b5a5" />
+
 
 ---
 
@@ -90,7 +92,8 @@ Generated a Line Chart to show monthly sales trend.
 ✔ Observed fluctuations and peak sales month.
 
 ### 📸 Screenshot – Monthly Sales Trend
-![Monthly Trend](monthly-trend.png)
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/4b7979ee-41e0-4cde-98fb-8977fb0108b7" />
+
 
 ---
 
