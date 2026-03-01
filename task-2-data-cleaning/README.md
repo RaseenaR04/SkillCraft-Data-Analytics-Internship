@@ -115,14 +115,14 @@ Exported cleaned dataset as:
   - Correct data types assigned
   - Cleaned dataset exported successfully
 
-📈 Key Outcomes
+### 📈 Key Outcomes
 
 - Ensured data consistency and reliability
 - Improved dataset quality for further analysis
 - Prepared dataset for visualization and dashboard creation
 - Strengthened data preprocessing skills
 
-🚀 Conclusion
+### 🚀 Conclusion
 
 This task demonstrates practical data cleaning and preprocessing skills using Python and Pandas.
 
